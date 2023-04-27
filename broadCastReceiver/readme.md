@@ -8,6 +8,6 @@ I have developed a sample app where I am using broadcast reciever.
 
 [![image.png](https://i.postimg.cc/5NsSp2YW/image.png)](https://postimg.cc/F7JSHmVT)
 
-[![image.png](https://i.postimg.cc/5NsSp2YW/image.png)](https://postimg.cc/F7JSHmVT)
+
 
 
