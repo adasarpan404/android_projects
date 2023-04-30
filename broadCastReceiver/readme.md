@@ -1,7 +1,7 @@
 # Broad Cast Receiver
 
 I have developed a sample app where I am using broadcast reciever. 
-Check out explanation blog:- <a href="https://adasarpan.hashnode.dev/implementing-broadcast-receivers-in-android" target="_blank">Drag and Drop blog</a><br/>
+Check out explanation blog:- <a href="https://adasarpan.hashnode.dev/implementing-broadcast-receivers-in-android" target="_blank">Broadcast Recievers Blog</a><br/>
 
 ## Screenshots
 
